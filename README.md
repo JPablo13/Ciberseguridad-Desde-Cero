@@ -12,7 +12,7 @@ En este curso, exploraremos los pilares de la ciberseguridad, desde los fundamen
 -  Redes
 -  Virtualización.
 
-🛡️[**Ciberataques como:**](https://github.com/JPablo13/Curso-Introductorio-a-la-Ciberseguridad/tree/main/2.%20Ciberataques)
+⚠[**Ciberataques como:**](https://github.com/JPablo13/Curso-Introductorio-a-la-Ciberseguridad/tree/main/2.%20Ciberataques)
 - Tipos de malware (virus, troyanos, ransomware, etc.).
 - Ataques de phishing y ingeniería social.
 - Ataques de denegación de servicio (DoS y DDoS).
