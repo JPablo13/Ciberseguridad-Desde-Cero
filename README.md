@@ -18,7 +18,7 @@ En este curso, exploraremos los pilares de la ciberseguridad, desde los fundamen
 - Ataques de denegación de servicio (DoS y DDoS).
 - Ataques a aplicaciones web.
 
-💻**Sistemas Operativos:**
+💻[**Sistemas Operativos:**](https://github.com/JPablo13/Curso-Introductorio-a-la-Ciberseguridad/tree/main/3.%20Sistemas%20Operativos)
 - Fundmaentos de Windows: configuración, buenas prácticas, comandos, directorios y ficheros esenciales.
 - Introducción a Linux: permisos, comandos, directorios y ficheros esenciales.
 
