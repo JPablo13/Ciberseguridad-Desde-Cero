@@ -5,22 +5,22 @@
 En este curso, exploraremos los pilares de la ciberseguridad, desde los fundamentos teóricos hasta las aplicaciones prácticas. Aprenderás sobre los diferentes tipos de ciberataques, cómo funcionan los sistemas operativos más comunes, y las mejores prácticas para proteger aplicaciones web.
 
 ## 🗂️¡Contenido del Curso!
-[📚**Fundamentos en:**](https://github.com/JPablo13/Curso-Introductorio-a-la-Ciberseguridad/tree/main/1.%20Fundamentos)
+[📚**Fundamentos:**](https://github.com/JPablo13/Curso-Introductorio-a-la-Ciberseguridad/tree/main/1.%20Fundamentos)
 -  Ciberseguridad
 -  La nube
 -  La web
 -  Redes
 -  Virtualización.
 
-[⚠**Ciberataques como:**](https://github.com/JPablo13/Curso-Introductorio-a-la-Ciberseguridad/tree/main/2.%20Ciberataques)
+[⚠**Ciberataques:**](https://github.com/JPablo13/Curso-Introductorio-a-la-Ciberseguridad/tree/main/2.%20Ciberataques)
 - Tipos de malware (virus, troyanos, ransomware, etc.).
 - Ataques de phishing y ingeniería social.
 - Ataques de denegación de servicio (DoS y DDoS).
 - Ataques a aplicaciones web.
 
 [💻**Sistemas Operativos:**](https://github.com/JPablo13/Curso-Introductorio-a-la-Ciberseguridad/tree/main/3.%20Sistemas%20Operativos)
-- Fundmaentos de Windows: configuración, buenas prácticas, comandos, directorios y ficheros esenciales.
-- Introducción a Linux: permisos, comandos, directorios y ficheros esenciales.
+- [🪟Fundmaentos de Windows:](https://github.com/JPablo13/Curso-Introductorio-a-la-Ciberseguridad/tree/main/3.%20Sistemas%20Operativos/Windows) configuración, buenas prácticas, comandos, directorios y ficheros esenciales.
+- [🐧Introducción a Linux:](https://github.com/JPablo13/Curso-Introductorio-a-la-Ciberseguridad/tree/main/3.%20Sistemas%20Operativos/Linux) permisos, comandos, directorios y ficheros esenciales.
 
 🌐**OWASP Top Ten:**
 - Análisis de las 10 vulnerabilidades web más críticas.
