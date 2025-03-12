@@ -19,8 +19,8 @@ En este curso, exploraremos los pilares de la ciberseguridad, desde los fundamen
 - Ataques a aplicaciones web.
 
 [💻**Sistemas Operativos:**](https://github.com/JPablo13/Curso-Introductorio-a-la-Ciberseguridad/tree/main/3.%20Sistemas%20Operativos)
-- [🪟Fundmaentos de Windows:](https://github.com/JPablo13/Curso-Introductorio-a-la-Ciberseguridad/tree/main/3.%20Sistemas%20Operativos/Windows) configuración, buenas prácticas, comandos, directorios y ficheros esenciales.
 - [🐧Introducción a Linux:](https://github.com/JPablo13/Curso-Introductorio-a-la-Ciberseguridad/tree/main/3.%20Sistemas%20Operativos/Linux) permisos, comandos, directorios y ficheros esenciales.
+- [🪟Fundmaentos de Windows:](https://github.com/JPablo13/Curso-Introductorio-a-la-Ciberseguridad/tree/main/3.%20Sistemas%20Operativos/Windows) configuración, buenas prácticas, comandos, directorios y ficheros esenciales.
 
 🌐**OWASP Top Ten:**
 - Análisis de las 10 vulnerabilidades web más críticas.
@@ -47,6 +47,8 @@ En este curso, exploraremos los pilares de la ciberseguridad, desde los fundamen
 
 ## 🧑‍💻Contribuciones
 ¡Las contribuciones son bienvenidas! Si encuentras errores, tienes sugerencias o quieres añadir contenido, no dudes en abrir un issue o enviar un pull request.
+
+---
 
 ## 📬Contacto
 Si tienes alguna pregunta, no dudes en contactarme en:<br>
