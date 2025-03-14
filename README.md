@@ -22,7 +22,7 @@ En este curso, exploraremos los pilares de la ciberseguridad, desde los fundamen
 - [🐧Introducción a Linux:](https://github.com/JPablo13/Curso-Introductorio-a-la-Ciberseguridad/tree/main/3.%20Sistemas%20Operativos/Linux) permisos, comandos, directorios y ficheros esenciales.
 - [🪟Fundmaentos de Windows:](https://github.com/JPablo13/Curso-Introductorio-a-la-Ciberseguridad/tree/main/3.%20Sistemas%20Operativos/Windows) configuración, buenas prácticas, comandos, directorios y ficheros esenciales.
 
-🌐**OWASP Top Ten:**
+[🌐**OWASP Top Ten:**](https://github.com/JPablo13/Curso-Introductorio-a-la-Ciberseguridad/tree/main/4.%20OWASP%20Top%20Teen)
 - Análisis de las 10 vulnerabilidades web más críticas.
 - Estrategias de mitigación y prevención.
 
