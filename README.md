@@ -53,7 +53,7 @@ En este curso, exploraremos los pilares de la ciberseguridad, desde los fundamen
 ## 📬Contacto
 Si tienes alguna pregunta, no dudes en contactarme en:  
 🔗 **GitHub**: [https://github.com/JPablo13](https://github.com/JPablo13)  
-💼 **LinkedIn**: [www.linkedin.com/in/josé-pablo-mena-villalobos](www.linkedin.com/in/josé-pablo-mena-villalobos)  
+💼 **LinkedIn**: [www.linkedin.com/in/josé-pablo-mena-villalobos](https://www.linkedin.com/in/jos%C3%A9-pablo-mena-villalobos/)  
 📧 **Email**: pablo13villalobos@gmail.com
 
 
