@@ -39,7 +39,7 @@ En este curso, exploraremos los pilares de la ciberseguridad, desde los fundamen
 - Reconocer y mitigar las vulnerabilidades web más comunes según OWASP.
 
 ## ⚙Recursos
-[Cisco NetAcad](https://www.netacad.com/career-paths/cybersecurity?course=&courseLang=en-US)
+[Cisco NetAcad](https://www.netacad.com/career-paths/cybersecurity?course=&courseLang=en-US) 
 | [Security Blue Team](https://www.securityblue.team/courses/blue-team-junior-analyst-pathway-bundle)
 | [IBM SkillsBuild](http://skillsbuild.org/adult-learners/explore-learning/cybersecurity-analyst)
 | [Palo Alto Networks](https://www.paloaltonetworks.com/cyberpedia/free-cybersecurity-education-courses)
@@ -50,7 +50,7 @@ En este curso, exploraremos los pilares de la ciberseguridad, desde los fundamen
 
 ---
 
-## 📬Contacto
+# 📬Contacto
 Si tienes alguna pregunta, no dudes en contactarme en:  
 🔗 **GitHub**: [https://github.com/JPablo13](https://github.com/JPablo13)  
 💼 **LinkedIn**: [www.linkedin.com/in/josé-pablo-mena-villalobos](https://www.linkedin.com/in/jos%C3%A9-pablo-mena-villalobos/)  
