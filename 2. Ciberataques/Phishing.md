@@ -1,5 +1,7 @@
-#Ciberseguridad #Ciberataques 
+# Phishing
+
 Es el delito de engañar a las personas para que compartan información confidencial como contraseñas y números de tarjetas de crédito. Existen varias técnicas para hacer que las personas caigan en este tipo de ataques, pero el más común es el phishing. Las victimas reciben un mensaje de correo electrónico o un mensaje de texto que imita ser una persona u organización de confianza. Cuando la víctima abre el correo electrónico o el mensaje de texto se va a encontrar un mensaje que lo puede llegar asustar. Normalmente el mensaje exige que la víctima vaya a un sitio web y actúe de inmediato a un tendrá que afrontar las consecuencias.
+
 ## Tipos de phishing
 - **Whaling**: Este modo se phishing se centra en atacar específicamente a altos ejecutivos y directivos de empresas, buscando obtener acceso a información valiosa o realizar fraudes de alto nivel.
 - **Smishing**: Es realizado a través de mensajes SMS (mensajes de texto). Suelen incluir enlaces maliciosos o solicitar información personal a través de mensajes de texto.
