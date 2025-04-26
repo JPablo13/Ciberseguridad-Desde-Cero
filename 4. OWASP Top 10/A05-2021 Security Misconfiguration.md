@@ -1,14 +1,16 @@
-#Ciberseguridad #OWASP  
+# A05-2021 Security Misconfiguration 
 Son los errores o configuraciones inapropiadas en el entorno, la aplicación o los servicios utilizados, que exponen el sistema a riesgos innecesarios, esta falla puede incluir en:
 - Configuraciones por defectos no seguras.
 - Exposiciones innecesaria de información.
 - Permisos excesivos en archivo o servicios.
 
 **Ejemplo**: Almacenamiento en la nube con permisos públicos, o instancias de bases de datos expuestas a internet.
+
 ## Gravedad
 - **Impacta en múltiples niveles**: Desde la aplicación hasta la infraestructura subyacente.
 - **Facilidad de explotación**: A menudo, los atacantes solo necesitan explorar configuraciones públicas o aprovechar configuraciones por defecto.
 - **Amplitud del impacto**: Puede facilitar otros ataques como escalada de privilegios, inyección de código o acceso no autorizado.
+
 ## Mitigación
 - **Endurecimiento del servidor**: Aplicar configuraciones de seguridad recomendadas para el sistema operativo, el servidor web y la base de datos.
 - **Seguridad en la nube**: Revisar y endurecer las configuraciones de seguridad de los servicios en la nube utilizados.
