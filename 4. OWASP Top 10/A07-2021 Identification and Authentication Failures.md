@@ -1,4 +1,4 @@
-# A07-2021 Identification and Authentication Failures.md
+# A07-2021 Identification and Authentication Failures
 
 Abarca una amplia gama de errores en la gestión de identidades y la autenticación de usuarios. Es crucial entender que la autenticación no solo verifica la identidad del usuario, sino que también establece la base para la autorización. Esto se puede dar por:
 - Uso de contraseñas débiles o predeterminadas.
