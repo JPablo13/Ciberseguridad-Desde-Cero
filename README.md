@@ -1,4 +1,4 @@
-# 🛡️Curso-Introductorio-a-la-Ciberseguridad
+# 🛡️Ciberseguridad-Desde-Cero
 ¡Bienvenido al mundo de la ciberseguridad! Este curso te proporcionará una base sólida en los conceptos y prácticas fundamentales para proteger sistemas y datos en el mundo digital.
 
 ## 📄Descripción
