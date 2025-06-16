@@ -50,6 +50,17 @@ En este curso, exploraremos los pilares de la ciberseguridad, desde los fundamen
 
 ---
 
+<h2 id="donate" align=''> Support me </h2>
+
+<details>
+<summary>Buy Me A Coffee</summary>
+
+<p align="center"><a href="https://buymeacoffee.com/jpablo13"><img  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></p>
+
+</details>
+
+---
+
 # 📬Contact
 If you have any questions, please feel free to contact me at:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpablo-villalobos/)
