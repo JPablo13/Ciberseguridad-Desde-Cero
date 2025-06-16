@@ -50,21 +50,15 @@ En este curso, exploraremos los pilares de la ciberseguridad, desde los fundamen
 
 ---
 
-<h2 id="donate" align=''> Support me </h2>
-
-<details>
-<summary>Buy Me A Coffee</summary>
-
-<p align="center"><a href="https://buymeacoffee.com/jpablo13"><img  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></p>
-
-</details>
-
----
-
-# 📬Contact
+## 📬Contact
 If you have any questions, please feel free to contact me at:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpablo-villalobos/)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/JPablo13)
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:pablo13villalobos@proton.me)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jpablo13)
 
+---
+
+## 🤝Support me
+
+<p align="center"><a href="https://buymeacoffee.com/jpablo13"><img  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></p>
